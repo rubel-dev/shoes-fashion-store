@@ -1,0 +1,32 @@
+
+
+.highlight{
+    color: #FA804C;
+}
+.price-name{
+    color: #FA804C;
+}
+.img-bg{
+    background-color: #F1F1F1;
+    border-radius: 8px;
+}
+.footer-shoes{
+    border:0;
+    background:white;
+}
+.buyBtn{
+    background:#3A4ADD;
+    padding: 10px 10px;
+    border-radius:5px ;
+}
+h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+@media (max-width:700px){
+    .same_style{
+        display: block!important;
+    }
+     
+}
